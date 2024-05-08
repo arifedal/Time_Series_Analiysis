@@ -1,4 +1,4 @@
-# Time_Series_Analiysis with Python 
+# Time_Series_Analysis with Python 
 
   This project focuses on conducting time series analysis on stock market data using Python. It utilizes the yfinance library to fetch historical stock data and the plotly library to visualize the data in various formats.
 
