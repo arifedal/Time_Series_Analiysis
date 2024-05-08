@@ -14,8 +14,9 @@
   # Project Overview
   The project consists of a Jupyter Notebook containing Python code for conducting time series analysis on stock market data. Here's a brief overview of what the notebook covers:
 
-  1.Data Retrieval: Fetching historical stock data using yfinance.
+  1. Data Retrieval: Fetching historical stock data using yfinance.
   2. Data Visualization: Visualizing the stock data using various plot types:
+     
       - Line Plot
       - Candlestick Chart
       - Bar Plot
