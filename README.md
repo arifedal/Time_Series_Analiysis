@@ -5,8 +5,8 @@
   ## Installation
   Before running the project, ensure you have the necessary libraries installed. You can install them using pip:
 
-  pip install yfinance
-  pip install plotly
+  - pip install yfinance
+  - pip install plotly
 
   ## About yfinance
   yfinance is a Python library that provides a simple interface to download historical market data from Yahoo Finance. It allows users to fetch data on stocks, currencies, cryptocurrencies, ETFs, and more. For more information about yfinance, please refer to [its documentation.](https://github.com/ranaroussi/yfinance)
